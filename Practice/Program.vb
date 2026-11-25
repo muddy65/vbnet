@@ -1,7 +1,7 @@
 Imports System
 
 Module Program
-    Sub Main(args As String())
+    'Sub Main(args As String())
         Dim student1 As New Student()
 
         Console.Write("Enter Student Name: ")
